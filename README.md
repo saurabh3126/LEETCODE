@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-026/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Saurabh-026/LEETCODE/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Saurabh-026/LEETCODE/tree/master/0013-roman-to-integer) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh-026/LEETCODE/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Saurabh-026/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -100,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saurabh-026/LEETCODE/tree/master/0013-roman-to-integer) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->

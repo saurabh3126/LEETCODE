@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saurabh-026/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Saurabh-026/LEETCODE/tree/master/0009-palindrome-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Saurabh-026/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## String
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->

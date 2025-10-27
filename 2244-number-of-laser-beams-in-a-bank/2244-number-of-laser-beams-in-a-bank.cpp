@@ -15,19 +15,8 @@ public:
                 if ( curr != 0){
                     prev = curr;
                 }
-
-           
-         
-  
-
           }
-          
-
             return result;
-       
-
     }
-
-    
 
 };

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saurabh-026/LEETCODE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Saurabh-026/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh-026/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh-026/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting

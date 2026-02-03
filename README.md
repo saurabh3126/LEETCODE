@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Saurabh-026/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3637-trionic-array-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |

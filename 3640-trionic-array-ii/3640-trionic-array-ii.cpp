@@ -20,7 +20,7 @@ public:
         ll take = LLONG_MIN/2;
         ll skip = LLONG_MIN/2;
 
-        //skip
+        
         if(trend == 0) {
             skip = solve(i+1, 0, nums);
         }

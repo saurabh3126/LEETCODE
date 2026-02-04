@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Saurabh-026/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3637-trionic-array-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh-026/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3640-trionic-array-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3640-trionic-array-ii) |
 ## Counting
 |  |
 | ------- |

@@ -6,7 +6,7 @@ public:
 
         for(int i =0 ; i<n ; i++){
             int shift =nums[i]%n;
-            int newIndex = (i+nums[i])%n;
+            int newIndex = (i+shift)%n;
             if(newIndex < 0){
                 newIndex += n;
             }

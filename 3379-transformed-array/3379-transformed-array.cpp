@@ -5,7 +5,7 @@ public:
         vector<int> result(n);
 
         for(int i =0 ; i<n ; i++){
-            // int shift =nums[i]%n;
+            int shift =nums[i]%n;
             int newIndex = (i+nums[i])%n;
             if(newIndex < 0){
                 newIndex += n;

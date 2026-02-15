@@ -24,7 +24,7 @@ public:
 
             result.push_back((sum%2 == 0) ? '0' : '1');
 
-            carry = (sum > 1) ? 1 : 0; //sum/2
+            carry = (sum > 1) ? 1 : 0; 
         }
 
         if(carry) {

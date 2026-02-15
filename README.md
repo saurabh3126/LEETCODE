@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Saurabh-026/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Saurabh-026/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Saurabh-026/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
 | [0367-valid-perfect-square](https://github.com/Saurabh-026/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Saurabh-026/LEETCODE/tree/master/3492-maximum-containers-on-a-ship) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Saurabh-026/LEETCODE/tree/master/3379-transformed-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Saurabh-026/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Saurabh-026/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Saurabh-026/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Saurabh-026/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Saurabh-026/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/Saurabh-026/LEETCODE/tree/master/0461-hamming-distance) |

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saurabh-026/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Saurabh-026/LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Saurabh-026/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saurabh-026/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Saurabh-026/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saurabh-026/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurabh-026/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Saurabh-026/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3713-longest-balanced-substring-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 ## String

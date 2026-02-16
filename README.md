@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [3668-restore-finishing-order](https://github.com/Saurabh-026/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Saurabh-026/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurabh-026/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/Saurabh-026/LEETCODE/tree/master/3379-transformed-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Saurabh-026/LEETCODE/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3701-compute-alternating-sum](https://github.com/Saurabh-026/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Saurabh-026/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Saurabh-026/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
+| [0365-water-and-jug-problem](https://github.com/Saurabh-026/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Saurabh-026/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Saurabh-026/LEETCODE/tree/master/3492-maximum-containers-on-a-ship) |
@@ -109,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Saurabh-026/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/Saurabh-026/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/Saurabh-026/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
 ## Union Find
 |  |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
 | [0365-water-and-jug-problem](https://github.com/Saurabh-026/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Saurabh-026/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Saurabh-026/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurabh-026/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh-026/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saurabh-026/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1920-build-array-from-permutation](https://github.com/Saurabh-026/LEETCODE/tree/master/1920-build-array-from-permutation) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurabh-026/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3713-longest-balanced-substring-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 ## String

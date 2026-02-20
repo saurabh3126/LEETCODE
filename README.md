@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
+| [0761-special-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0761-special-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saurabh-026/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saurabh-026/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/Saurabh-026/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Saurabh-026/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurabh-026/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Saurabh-026/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Saurabh-026/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0761-special-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 ## Interactive

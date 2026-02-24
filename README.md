@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Saurabh-026/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Saurabh-026/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Saurabh-026/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -299,10 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Saurabh-026/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Saurabh-026/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Saurabh-026/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Saurabh-026/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Segment Tree
 |  |
 | ------- |

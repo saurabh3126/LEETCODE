@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/Saurabh-026/LEETCODE/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Saurabh-026/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Saurabh-026/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Saurabh-026/LEETCODE/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Saurabh-026/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurabh-026/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/Saurabh-026/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 ## Bit Manipulation
@@ -327,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurabh-026/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->

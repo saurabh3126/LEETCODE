@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Saurabh-026/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Saurabh-026/LEETCODE/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1622-fancy-sequence](https://github.com/Saurabh-026/LEETCODE/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Saurabh-026/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Saurabh-026/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Saurabh-026/LEETCODE/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3721-longest-balanced-subarray-ii) |
 ## Backtracking
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Saurabh-026/LEETCODE/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->

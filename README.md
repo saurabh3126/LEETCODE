@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Saurabh-026/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2573-find-the-string-with-lcp](https://github.com/Saurabh-026/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saurabh-026/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Saurabh-026/LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/2906-construct-product-matrix) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Saurabh-026/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Saurabh-026/LEETCODE/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2573-find-the-string-with-lcp](https://github.com/Saurabh-026/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Saurabh-026/LEETCODE/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2573-find-the-string-with-lcp](https://github.com/Saurabh-026/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Saurabh-026/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Saurabh-026/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/Saurabh-026/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3640-trionic-array-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3640-trionic-array-ii) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Saurabh-026/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurabh-026/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2573-find-the-string-with-lcp](https://github.com/Saurabh-026/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [2942-find-words-containing-character](https://github.com/Saurabh-026/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
@@ -375,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Saurabh-026/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |

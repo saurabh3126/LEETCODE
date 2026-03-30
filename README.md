@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurabh-026/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Saurabh-026/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Saurabh-026/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saurabh-026/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saurabh-026/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Saurabh-026/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Saurabh-026/LEETCODE/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Saurabh-026/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saurabh-026/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/Saurabh-026/LEETCODE/tree/master/2573-find-the-string-with-lcp) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/Saurabh-026/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Saurabh-026/LEETCODE/tree/master/3713-longest-balanced-substring-i) |

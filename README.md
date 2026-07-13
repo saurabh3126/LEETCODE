@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
+| [0214-shortest-palindrome](https://github.com/Saurabh-026/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -387,10 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Saurabh-026/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurabh-026/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Saurabh-026/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurabh-026/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Union-Find
 |  |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Saurabh-026/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Saurabh-026/LEETCODE/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Queue
 |  |

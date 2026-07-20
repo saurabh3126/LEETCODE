@@ -10,12 +10,12 @@ public:
             for(int p : piles){
             hours +=(p+mid -1)/mid;
             }
-            if(hours<=h){
+            if(hours<h){
                 end = mid -1;
             }
-            // if (hours <= h) {
-            //      end = mid - 1;
-            //     }
+            if (hours <= h) {
+                 end = mid - 1;
+                }
             else {
                  start = mid + 1;
             }

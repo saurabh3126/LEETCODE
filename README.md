@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/Saurabh-026/LEETCODE/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Saurabh-026/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Saurabh-026/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Saurabh-026/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh-026/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Saurabh-026/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurabh-026/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Saurabh-026/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |

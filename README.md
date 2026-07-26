@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurabh-026/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Saurabh-026/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh-026/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh-026/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh-026/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Saurabh-026/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh-026/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saurabh-026/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh-026/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Saurabh-026/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Saurabh-026/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Saurabh-026/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |

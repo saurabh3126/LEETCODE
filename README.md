@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saurabh-026/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Saurabh-026/LEETCODE/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/Saurabh-026/LEETCODE/tree/master/0704-binary-search) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saurabh-026/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Saurabh-026/LEETCODE/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Saurabh-026/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Saurabh-026/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Saurabh-026/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saurabh-026/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Saurabh-026/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/2906-construct-product-matrix) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh-026/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saurabh-026/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saurabh-026/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh-026/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Saurabh-026/LEETCODE/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |

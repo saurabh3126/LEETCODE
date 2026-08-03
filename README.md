@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Saurabh-026/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Saurabh-026/LEETCODE/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saurabh-026/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Saurabh-026/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Saurabh-026/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/Saurabh-026/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Saurabh-026/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Saurabh-026/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Saurabh-026/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Saurabh-026/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0761-special-binary-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurabh-026/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Saurabh-026/LEETCODE/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |

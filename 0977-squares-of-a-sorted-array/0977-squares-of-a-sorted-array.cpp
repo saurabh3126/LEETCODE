@@ -19,17 +19,11 @@ public:
                 k--;
                 left++;
             }
-            else{
-                if (lefts > rights) {
-                 ans[k] = lefts;
-                left++;
-                } 
-                else {
-                ans[k] = rights;
-                right--;
-                    }
-                k--;
-            }
+           else {
+              ans[k] = rights;
+               right--;
+            k--;
+             }
         }
     return ans;
     }

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Saurabh-026/LEETCODE/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Saurabh-026/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh-026/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Saurabh-026/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saurabh-026/LEETCODE/tree/master/0283-move-zeroes) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh-026/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Saurabh-026/LEETCODE/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Saurabh-026/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -370,11 +373,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Saurabh-026/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabh-026/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Saurabh-026/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Trie
 |  |

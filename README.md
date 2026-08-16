@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh-026/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Saurabh-026/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Saurabh-026/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Saurabh-026/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Saurabh-026/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saurabh-026/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Saurabh-026/LEETCODE/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Saurabh-026/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Saurabh-026/LEETCODE/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0344-reverse-string) |

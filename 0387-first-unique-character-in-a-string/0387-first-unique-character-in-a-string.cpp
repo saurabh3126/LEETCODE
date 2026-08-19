@@ -1,18 +1,15 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int count[26] = {0};
-        
-        for (char c : s) {
-            count[c - 'a']++; 
+        unordered_map<char,int>mp;
+        for(int i:s){
+            mp[i]++;
         }
-        
-        for (int i = 0; i < s.size(); i++) {
-            if (count[s[i] - 'a'] == 1) {
+        for(int i=0;i<s.length();i++){
+            if(mp[s[i]]==1){
                 return i;
             }
         }
-        
-        return -1;
+        return-1;
     }
 };

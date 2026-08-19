@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saurabh-026/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Saurabh-026/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/Saurabh-026/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurabh-026/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/Saurabh-026/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saurabh-026/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Saurabh-026/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/0761-special-binary-string) |
+| [0771-jewels-and-stones](https://github.com/Saurabh-026/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurabh-026/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Saurabh-026/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Saurabh-026/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
